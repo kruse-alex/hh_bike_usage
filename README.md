@@ -4,7 +4,7 @@ Wie können offene Daten Hamburg zu einer fahrradfreundlicheren Stadt machen?
 
 ## Vision von SPD und Grünen für Hamburg: 25 Prozent aufs Rad
 
-“Wir wollen den Radverkehr in Hamburg weiter ausbauen. Unser Ziel ist es, innerhalb der 2020er Jahre den Radverkehrsanteil von 12 auf 25 Prozent zu steigern.” Diese Zielsetzung haben SPD und Grüne für die Legislaturperiode 2015 bis 2020 in Hamburg im Koalitionsvertrag formuliert. Bis in die 20er Jahre soll der Radverkehrsanteil somit auf 25 Prozent in Hamburg steigen. Dazu sind viele bauliche Maßnahmen notwendig. Zum Beispiel sollen jährlich 50 Kilometer Radverkehrsanlagen gebaut oder saniert werden.
+“Wir wollen den Radverkehr in Hamburg weiter ausbauen. Unser Ziel ist es, innerhalb der 2020er Jahre den Radverkehrsanteil von 12 auf 25 Prozent zu steigern.” Diese Zielsetzung haben SPD und Grüne für die Legislaturperiode 2015 bis 2020 in Hamburg im Koalitionsvertrag formuliert. Bis in die 20er Jahre soll der Radverkehrsanteil somit auf 25 Prozent in Hamburg steigen. Dazu sind viele bauliche Maßnahmen notwendig. Zum Beispiel sollen jährlich 50 Kilometer Radverkehrsanlagen gebaut oder saniert werden. [ [Quelle](http://www.gruene-fraktion-hamburg.de/rad/de/fahrradstadt) ]
 
 ## Fahrradstadt Hamburg? Von wegen!
 
