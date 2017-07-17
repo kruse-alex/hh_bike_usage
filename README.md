@@ -21,6 +21,10 @@ Auf Grundlage welcher Informationen werden Entscheidungen für die Radverkehrsst
 
 Die letzte offiziell veröffentlichte Grafik zu den Messergebnissen der 38 Fahrradpegel entstammen dem  Fortschrittsbericht der Radverkehrsstrategie für Hamburg aus dem Jahr 2015. Aktuellere Zahlen finden sich aber in der Antwort des Senats auf eine schriftliche Anfrage des Abgeordneten Martin Bill (GRÜNE) vom 16.02.2017. In den hierzu veröffentlichten Daten finden sich die genauen Standorte der Messungen sowie Messergebnisse der 38 Fahrradpegel von 2011 bis 2016. [ [Quelle](https://kleineanfragen.de/hamburg/21/8015-hamburger-fahrradpegel-messungen-2016) ]
 
+<p align="center">
+  <img src="https://github.com/kruse-alex/hh_bike_usage/blob/master/fahrradpegel_locations.png" alt="Sublime's custom image"/>
+</p>
+
 Anhand der Karte lässt sich erkennen an welchen Standorten die jährlichen Messungen durchgeführt werden. In mehreren Fällen werden an nur einer Kreuzung an bis zu vier Messpunkten Daten erfasst. Betrachtet man die Karte, kann eigentlich nur von einer sehr punktuellen Erfassungen des Radverkehrs geprochen werden. Betrachtet man weiterhin die Messergebnisse der einzelnen Stationen lassen sich keine eindeutigen Trends erkennen. Vielmehr zeigt sich ein sehr zufälliges Bild an den Messstation welches zwischen Auf- und Abwärtstrends sowie Kurvenbewegungen schwankt.                                      
 Summiert man die Ergebnisse der 38 Fahrradpegel pro Jahr lässt sich der Aufwärtstrend der offiziellen Grafik bis 2014 bestätigen. Ab 2014 scheint die Zunahme dennoch zu stagnieren, wobei man bei Betrachtungen der einzelnen Messpunkte generell schwierig überhaupt einen gemeinsamen Trend ausmachen kann.
 
