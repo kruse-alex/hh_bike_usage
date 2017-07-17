@@ -1,7 +1,6 @@
-# Nutzung von Open Data im Rahmen der Radverkehrsstrategie
-<p align="center">
+## Nutzung von Open Data im Rahmen der Radverkehrsstrategie
+
 Wie können offene Daten Hamburg zu einer fahrradfreundlicheren Stadt machen?
-<p />
 
 ## Vision von SPD und Grünen für Hamburg: 25 Prozent aufs Rad
 
@@ -12,6 +11,7 @@ Wie können offene Daten Hamburg zu einer fahrradfreundlicheren Stadt machen?
 Im ADFC-Fahrradklima-Test 2016 konnten Radfahrer bewerten, wie fahrradfreundlich ihre Stadt ist. Mit einer Gesamtnote von 4,2 (schlechtester Wert wie in der Schule: 6) landet Hamburg dabei auf Platz 31 – von 39 Städten. Mit einer krachenden 5,3 wurde die Falschparkerkontrolle auf Radwegen am negativsten bewertet, gefolgt von der Verkehrsführung an Baustellen und der (oft nicht ausreichend vorhandenen) Breite der Radwege. Das Ergebnis ist, wie nicht anders zu erwarten, ein gefundenes Fressen für die Opposition. Die FDP nennt das Ergebnis eine "schallende Ohrfeige für die rot-grüne Fahrradpolitik". Die Linken werfen dem Senat vor, sich zu sehr nach der Autolobby zu richten. Und sogar CDU-Verkehrssprecher Dennis Thering, der dem Senat ansonsten eher die schikanöse Behandlung der armen Autofahrer vorwirft, schlägt sich ausnahmsweise auf die Seite der Radler, die "auf Hauptverkehrsstraßen neben 40-Tonnen-Lkw" gezwungen würden. Allein Martin Bill, verkehrspolitischer Sprecher der grünen Bürgerschaftsfraktion, erkennt das Positive am diesjährigen Abschneiden, die Verbesserung um vier Plätze im Vergleich zum Vorjahr: "Es gibt eindeutig eine positive Tendenz. Das zeigt sich durch das bessere Ranking im Vergleich zum Vorjahr, aber vor allem auch darin, dass Hamburg besonders beim Thema ›Fahrradförderung in jüngster Zeit‹ im Vergleich mit den anderen Städten sehr gut abschneidet." Immerhin gibt auch er zu: "Platz 31 von 39 ist nicht gut. Vor uns liegt noch viel Arbeit." [ [Quelle](http://www.zeit.de/hamburg/stadtleben/2017-05/elbvertiefung-22-05-2017 ) ]
  
 ## Qualitätssicherung und Erfolgskontrolle
+
 Auf Grundlage welcher Informationen werden Entscheidungen für die Radverkehrsstrategie in Hamburg getroffen? Hier sind drei Faktoren zu nennen:
  + Das Radverkehrsaufkommen in Hamburg wird an 38 sogenannten Fahrradpegeln an einem möglichst repräsentativen Tag pro Jahr manuell erhoben. Auch unter Berücksichtigung der Streuung der Jahreswerte z. B. auf Grund der Witterung zeigt die aus diesen Pegelmessungen resultierende Kurve einen seit Jahren ansteigenden Trend (siehe Grafik unten).
   + Zur Ergänzung und Weiterentwicklung der Fahrradpegel wird die Einführung neuer Zähltechniken wie z. B. automatischer Dauerzählstellen geprüft; bei Erfolg sollen diese weiter ausgebaut werden. Auf Initiative des Bezirksamtes Hamburg-Mitte wurde im Oktober 2014 eine erste derartige Dauerzählstelle für den Radverkehr am Radweg An der Alster / Höhe GurlittInsel eingerichtet.
@@ -40,6 +40,7 @@ Summiert man die Ergebnisse der 38 Fahrradpegel pro Jahr lässt sich der Aufwär
 </p>
 
 ## Nutzung von Open Data im Rahmen der  Radverkehrsstrategie
+
 Im Hamburgischen Transparenzgesetz (HmbTG) ist eine umfassende Veröffentlichungspflicht von bislang verwaltungsinternen Informationen festgelegt, um die vorhandenen Informationsmöglichkeiten zu verbessern, die Beteiligung der Bürgerinnen und Bürger zu fördern und die Kontrolle staatlichen Handelns zu unterstützen. Im Transparenzportal Hamburg stehen täglich neue Informationen zur Verfügung, die von der klassischen Verwaltung (z.B. Bezirksämter und Fachbehörden) und von öffentlichen Unternehmen (z.B. HafenCity Hamburg GmbH und Elbe-Werkstätten) für das Portal bereitgestellt werden. [ [Quelle](http://www.hamburg.de/bkm/transparenzportal/) ]
 
 Stellt sich nun die Frage wie die sogenannten “Offenen Daten” genutzt werden können um die Radverkehrsstrategie zu unterstützen? Eine erste Option sind die Daten von StadtRAD Hamburg, die über das Open-Data-Portal der Deutschen Bahn zur Verfügung stehen. Aus diesen Daten habe ich eine interaktive Karte erstellt. Die Karte nutzt zunächst die Buchungsdaten für den gesamten Monat Juni 2016. Je heller eine Straße desto mehr Leute sind diese Route gefahren. Die roten Punkte markieren die StadtRAD-Stationen.
@@ -48,4 +49,4 @@ Stellt sich nun die Frage wie die sogenannten “Offenen Daten” genutzt werden
   <img src="https://github.com/kruse-alex/hh_bike_usage/blob/master/bikesharing_usage.png" alt="Sublime's custom image"/>
 </p>
 
-Eine zweite Option sind die Daten von Strava, einem sozialen Netzwerk zum internetbasierten Tracking von Radtouren. Die zurückgelegten Strecken können von den Mitgliedern des Netzwerkes über eine mobile Applikation für Smartphones oder einen kompatiblen GPS-Empfänger samt Informationen zur Dauer, der Steigung, der Geschwindigkeit, dem Krafteinsatz, der Temperatur oder dem Energieumsatz abgespeichert werden. Strava Metro stellt den Städten und deren Planern die Rohdaten zur Verfügung. 76 Städte und Regionen weltweit nutzen die Daten von Strava Metro zur Planung der Fahrradinfrastruktur (Stand 2016).
+Eine zweite Option sind die Daten von Strava, einem sozialen Netzwerk zum internetbasierten Tracking von Radtouren. Die zurückgelegten Strecken können von den Nutzern über eine APP samt Informationen zur Dauer, der Steigung, der Geschwindigkeit, dem Krafteinsatz, der Temperatur oder dem Energieumsatz abgespeichert werden. Strava Metro stellt den Städten und deren Planern die Rohdaten zur Verfügung. 76 Städte und Regionen weltweit nutzen die Daten von Strava Metro zur Planung der Fahrradinfrastruktur (Stand 2016).
