@@ -1,0 +1,39 @@
+station,street,time,date,degree,rain,sun
+505,Wendlohstraße NO Schleswiger Damm,6 - 19,19.04.2016,11°,0mm,4h
+506,Frohmestraße SO Wendlohstraße,6 - 19,19.04.2016,11°,0mm,4h
+507,Frohmestraße W Schleswiger Damm,6 - 19,19.04.2016,11°,0mm,4h
+521,Saseler Chaussee N Stadtbahnstraße,6 - 19,28.04.2016,10°,1mm,5h
+522,Stadtbahnstraße O Saseler Chaussee,6 - 19,28.04.2016,10°,1mm,5h
+523,Saseler Chaussee S Stadtbahnstraße,6 - 19,28.04.2016,10°,1mm,5h
+524,Stadtbahnstraße W Saseler Chaussee,6 - 19,28.04.2016,10°,1mm,5h
+535,Lohbrügger Markt NO Lohbrügger Land-straße,6 - 20,03.05.2016,18°,0mm,14h
+533,Washingtonallee N Horner Landstraße,6 - 19,24.05.2016,14°,2mm,0h
+534,Horner Landstraße W Washingtonallee,6 - 19,24.05.2016,14°,2mm,0h
+531,Hammer Straße N Horner Kreisel,6 - 19,26.05.2016,14°,2mm,0h
+532,Horner Weg O Mettlerkampsweg,7-9 und  13-18,26.05.2016,14°,2mm,0h
+529,Wandsbeker Allee N Wandsbeker Marktstraße,6 - 19,02.06.2016,24°,5mm,4h
+530,Wandsbeker Marktstraße W Wandsbe-ker Allee,6 - 19,02.06.2016,24°,5mm,4h
+536,Wilstorfer Straße NW Moorstraße,6 - 19,07.06.2016,27°,1mm,12h
+537,Moorstraße O Wilstorfer Straße,6 - 19,07.06.2016,27°,1mm,12h
+538,Wilstorfer Straße SO Moorstraße,6 - 19,07.06.2016,27°,1mm,12h
+526,Stein-Hardenberg-Straße NO Tonndor-fer Hauptstraße,6 - 19,14.06.2016,20°,7mm,2h
+527,Tonndorfer Hauptstraße SO Stein-Hardenberg-Straße,6 - 19,14.06.2016,20°,7mm,2h
+528,Schöneberger Straße W Charlottenbur-ger Straße,6 - 19,14.06.2016,20°,7mm,2h
+508,Hudtwalckerstraße SW Sierichstraße,6 - 19,16.06.2016,20°,1mm,7h
+514,Dammtordamm N Esplanade,6 - 19,21.06.2016,22°,1mm,5h
+515,Dammtorstraße S Große Theaterstraße,6 - 19,21.06.2016,22°,1mm,5h
+516,Kennedybrücke O Neuer Jungfernstieg,6 - 19,21.06.2016,22°,1mm,5h
+517,Lombardsbrücke W Ferdinandstor,6 - 19,21.06.2016,22°,1mm,5h
+519,Willy-Brand-Straße W Kleiner Burstah,6 - 19,21.06.2016,22°,1mm,5h
+520,Meßberg W Deichtorplatz,6 - 19,21.06.2016,22°,1mm,5h
+525,August-Krogmann-Straße N Am Luisen-hof,6 - 19,12.07.2016,22°,1mm,6h
+509,Hoheluftchaussee SO Eppendorfer Weg,6 - 19,19.07.2016,25°,0mm,7h
+510,Schäferkampsallee NW Beim Schlump,6 - 19,19.07.2016,25°,0mm,7h
+511,Beim Schlump NO Schröderstiftstraße,6 - 19,19.07.2016,25°,0mm,7h
+512,Schröderstiftstraße SO Beim Schlump,6 - 19,19.07.2016,25°,0mm,7h
+513,Kleiner Schäferkamp SW Schröderstift-straße,6 - 19,19.07.2016,25°,0mm,7h
+501,Schulauer Weg W Tinsdaler Heideweg (LG),6 - 19,20.09.2016,19°,0mm,2h
+502,Schenefelder Landstraße N Elbchaus-see,6 - 19,20.09.2016,19°,0mm,2h
+503,Elbchaussee NW Schenefelder Land-straße,6 - 19,20.09.2016,19°,0mm,2h
+504,Bahrenfelder Chaussee NW Von-Sauer-Straße,6 - 19,22.09.2016,20°,0mm,6h
+518,An der Alster S Lohmühlenstraße,6 - 19,29.09.2016,22°,4mm,2h
