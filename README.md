@@ -33,7 +33,7 @@ Anhand der Karte lässt sich erkennen an welchen Standorten die jährlichen Mess
   <img src="https://github.com/kruse-alex/hh_bike_usage/blob/master/fahrradpegel_messpunkte.png" alt="Sublime's custom image"/>
 </p>
 
-Summiert man die Ergebnisse der 38 Fahrradpegel pro Jahr lässt sich der Aufwärtstrend der offiziellen Grafik bis 2014 bestätigen. Ab 2014 scheint die Zunahme dennoch zu stagnieren, wobei man bei Betrachtungen der einzelnen Messpunkte generell schwierig überhaupt einen gemeinsamen Trend ausmachen kann.
+Summiert man die Ergebnisse der 38 Fahrradpegel pro Jahr lässt sich der Aufwärtstrend der offiziellen Grafik bis 2014 bestätigen. Ab 2014 scheint die Zunahme dennoch zu stagnieren, wobei man bei Betrachtungen der einzelnen Messpunkte generell schwierig überhaupt einen gemeinsamen Trend ausmachen kann (auch wenn es das [Hamburger Abendblatt](http://www.abendblatt.de/nachrichten/article209774943/Zahl-der-Radfahrer-in-Hamburg-deutlich-gestiegen.html) trotzdem gerne tut).
 
 <p align="center">
   <img src="https://github.com/kruse-alex/hh_bike_usage/blob/master/fahrradpegel_messpunkte_aggregated.png" alt="Sublime's custom image"/>
