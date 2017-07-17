@@ -1,5 +1,5 @@
 ## Nutzung von Open Data im Rahmen der Radverkehrsstrategie
-Wie können offene Daten Hamburg zur einer fahrradfreundlicheren Stadt machen?
+Wie können offene Daten Hamburg zu einer fahrradfreundlicheren Stadt machen?
 
 ## Vision von SPD und Grünen für Hamburg: 25 Prozent aufs Rad
 
