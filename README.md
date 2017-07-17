@@ -30,13 +30,13 @@ Die letzte offiziell veröffentlichte Grafik zu den Messergebnissen der 38 Fahrr
 Anhand der oebigen Karte lässt sich zunächst erkennen an welchen Standorten die jährlichen Messungen durchgeführt werden. In mehreren Fällen werden an nur einer Kreuzung an bis zu vier Messpunkten Daten erfasst. Betrachtet man die Karte generell, kann eigentlich nur von einer sehr punktuellen Erfassungen des Radverkehrs geprochen werden. Betrachtet man weiterhin die Messergebnisse der einzelnen Stationen lassen sich keine eindeutigen Trends erkennen (siehe Grafik unten). Vielmehr zeigt sich ein sehr zufälliges Bild an den Messpunkten welches zwischen Auf- und Abwärtstrends sowie Kurvenbewegungen schwankt.
 
 <p align="center">
-  <img src="https://github.com/kruse-alex/hh_bike_usage/blob/master/fahrradpegel.PNG" alt="Sublime's custom image"/>
+  <img src="https://github.com/kruse-alex/hh_bike_usage/blob/master/fahrradpegel.png" alt="Sublime's custom image"/>
 </p>
 
 Summiert man die Ergebnisse der 38 Fahrradpegel pro Jahr lässt sich der Aufwärtstrend der offiziellen Grafik nur bis 2014 bestätigen. Ab 2014 scheint die Zunahme dennoch zu stagnieren, wobei man bei Betrachtungen der einzelnen Messpunkte generell schwierig überhaupt einen gemeinsamen Trend ausmachen kann (auch wenn es z.B. das [Hamburger Abendblatt](http://www.abendblatt.de/nachrichten/article209774943/Zahl-der-Radfahrer-in-Hamburg-deutlich-gestiegen.html) trotzdem gerne tut).
 
 <p align="center">
-  <img src="https://github.com/kruse-alex/hh_bike_usage/blob/master/fahrradpegel_aggregated.PNG" alt="Sublime's custom image"/>
+  <img src="https://github.com/kruse-alex/hh_bike_usage/blob/master/fahrradpegel_aggregated.png" alt="Sublime's custom image"/>
 </p>
 
 ## Nutzung von Open Data im Rahmen der  Radverkehrsstrategie
