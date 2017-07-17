@@ -16,7 +16,7 @@ Auf Grundlage welcher Informationen werden Entscheidungen für die Radverkehrsst
  + Der Anteil des Radverkehrs am Gesamtverkehrsaufkommen, d. h. an allen zurückgelegten Wegen (Modal-Split) wird über Haushaltsbefragungen ermittelt. Daten liegen nur für die Jahre vor, in denen die bundesweite Studie „Mobilität in Deutschland“ (MiD) durchgeführt wurde. Bei der letzten Befragung im Jahr 2008 wurde für Hamburg eben ein Radverkehrsanteil von 12,2 % ermittelt. Das Bundesministerium für Verkehr und digitale Infrastruktur (BMVI) bereitet zurzeit eine Aktualisierung der MiD-Studie für das Erhebungsjahr 2016 vor, deren Ergebnisse voraussichtlich im Jahr 2017 verfügbar sein werden (liegt Stand 15.07.2017 nicht vor). [ [Quelle](http://www.hamburg.de/contentblob/4538022/f80b2806d74a33dba4f404dd319d10ce/data/fortschrittsbericht-2015.pdf) ]
 
 <p align="center">
-  <img src="https://github.com/kruse-alex/hh_bike_usage/blob/master/fahrradpegel_1970-2014.png" alt="Sublime's custom image"/>
+  <img src="https://github.com/kruse-alex/hh_bike_usage/blob/master/Fahrradpegel_1970-2014.png" alt="Sublime's custom image"/>
 </p>
 
 Die letzte offiziell veröffentlichte Grafik zu den Messergebnissen der 38 Fahrradpegel entstammen dem  Fortschrittsbericht der Radverkehrsstrategie für Hamburg aus dem Jahr 2015. Aktuellere Zahlen finden sich aber in der Antwort des Senats auf eine schriftliche Anfrage des Abgeordneten Martin Bill (GRÜNE) vom 16.02.2017. In den hierzu veröffentlichten Daten finden sich die genauen Standorte der Messungen sowie Messergebnisse der 38 Fahrradpegel von 2011 bis 2016. [ [Quelle](https://kleineanfragen.de/hamburg/21/8015-hamburger-fahrradpegel-messungen-2016) ]
