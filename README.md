@@ -49,4 +49,9 @@ Stellt sich nun die Frage wie die sogenannten “Offenen Daten” genutzt werden
   <img src="https://github.com/kruse-alex/hh_bike_usage/blob/master/bikesharing_usage.png" alt="Sublime's custom image"/>
 </p>
 
-Eine zweite Option sind die Daten von Strava, einem sozialen Netzwerk zum internetbasierten Tracking von Radtouren. Die zurückgelegten Strecken können von den Nutzern über eine APP samt Informationen zur Dauer, der Steigung, der Geschwindigkeit, dem Krafteinsatz, der Temperatur oder dem Energieumsatz abgespeichert werden. Strava Metro stellt den Städten und deren Planern die Rohdaten zur Verfügung. 76 Städte und Regionen weltweit nutzen die Daten von Strava Metro zur Planung der Fahrradinfrastruktur (Stand 2016). [ [Quelle](https://www.theguardian.com/lifeandstyle/2016/may/09/city-planners-cycling-data-strava-tracking-app) ]
+Eine zweite Option sind die Daten von Strava, einem sozialen Netzwerk zum internetbasierten Tracking von Radtouren. Die zurückgelegten Strecken können von den Nutzern über eine APP samt Informationen zur Dauer, der Steigung, der Geschwindigkeit, dem Krafteinsatz, der Temperatur oder dem Energieumsatz abgespeichert werden. Strava Metro stellt den Städten und deren Planern die Rohdaten zur Verfügung. 76 Städte und Regionen weltweit nutzen die Daten von Strava Metro zur Planung der Fahrradinfrastruktur (Stand 2016). Die Karte unten zeigt einen Ausschnitt der Strava Metro Daten für Hamburg. [ [Quelle](https://www.theguardian.com/lifeandstyle/2016/may/09/city-planners-cycling-data-strava-tracking-app) ]
+
+<p align="center">
+  <img src="https://github.com/kruse-alex/hh_bike_usage/blob/master/hh_strava.PNG" alt="Sublime's custom image"/>
+</p>
+
